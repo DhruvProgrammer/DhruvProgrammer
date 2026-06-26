@@ -53,7 +53,7 @@ model, or tweaking a WordPress theme.
 
 ### 🛠️ What I'm Building
 
-- 🤖 Bots in Node.js & TypeScript
+- 🤖 Telegram Bot Understanding
 - 🌐 WordPress sites & custom themes
 - � Toy ML experiments
 - 🎬 Short films, motion graphics, and music in FL Studio
