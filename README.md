@@ -1,9 +1,8 @@
-<!-- Typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=false&vCenter=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+a+polyglot+creator;Designer+%7C+Editor+%7C+Developer;Building+with+code%2C+pixels+%26+sound" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=false&vCenter=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Dhruv;Designer+%7C+Editor+%7C+Developer;Building+with+code%2C+pixels+%26+sound" alt="Typing SVG" />
 
 <div align="center">
 
-# 👋 Hey there
+# 👋 Hey, I'm Dhruv
 
 **Designer · Video Editor · Indie Developer**
 
@@ -12,7 +11,7 @@ On one screen I'm editing in Premiere Pro or sculpting in Blender;
 on the other I'm wiring up a Node/TypeScript bot, training an ML
 model, or tweaking a WordPress theme.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6E40C9" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=DhruvProgrammer&style=flat-square&color=6E40C9" alt="profile views" />
 
 ---
 
@@ -54,14 +53,14 @@ model, or tweaking a WordPress theme.
 
 ### 🛠️ What I'm Building
 
-- 🤖 Bots in Telegram
+- 🤖 Bots in Node.js & TypeScript
 - 🌐 WordPress sites & custom themes
-- 🧠 Toy ML experiments
+- � Toy ML experiments
 - 🎬 Short films, motion graphics, and music in FL Studio
 
 ---
 
-### � Scripting the Story
+### 📜 Scripting the Story
 
 Writing doesn't stop at code. I also draft short film and
 movie scripts in **Celtx** and **Studio Binder** — the same
@@ -71,10 +70,10 @@ head-space as debugging, just with more dialogue.
 
 ### 📊 GitHub in Numbers
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DhruvProgrammer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvProgrammer&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvProgrammer&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 ---
 
