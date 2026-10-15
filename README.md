@@ -82,8 +82,8 @@ head-space as debugging, just with more dialogue.
 <p>
   <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:brunogoyal2007@gmailcom"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/DhruvProgrammer"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <sub>⚡ Fun fact: I can edit a video, produce the soundtrack, and ship a bot — before lunch.</sub>
